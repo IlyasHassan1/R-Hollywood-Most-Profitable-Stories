@@ -47,7 +47,8 @@ To replicate the analysis:
 ![Rplot02](https://github.com/IlyasHassan1/R-Hollywood-Most-Profitable-Stories/assets/156099554/a270d2d5-68d1-46c9-bc7a-9e6f4c304976)
 
 ### Power BI Dashboard
-![dashboard](https://github.com/IlyasHassan1/R-Hollywood-Most-Profitable-Stories/assets/156099554/8ceeaef3-2cbf-452d-bc5b-383c91b39271)
+![dashboard](https://github.com/IlyasHassan1/R-Hollywood-Most-Profitable-Stories/assets/156099554/0883cd28-5480-4910-9cc9-1bc101f8730e)
+
 
 ### Contributing 🚀
 
